@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Устим Данилюк",
+        "phone_numder": "+380 (60) 295-29-30",
+        "email": "makar96@example.org",
+        "address": "сквер Шилова, буд. 98, Козятин, 94338",
+        "birthday": "1995-03-10"
+    },
+    {
+        "name": "Пріска Вернидуб",
+        "phone_numder": "092 540-14-92",
+        "email": "shynkarenkoiukhym@example.org",
+        "address": "шосе Бернардацці, буд. 07 кв. 973, Валки , 44659",
+        "birthday": "1997-12-02"
+    },
+    {
+        "name": "Еріка Тягнибок",
+        "phone_numder": "+380 (76) 473-44-60",
+        "email": "nsaienko@example.net",
+        "address": "парк Торгова, буд. 18 кв. 31, Миколаївка , 60261",
+        "birthday": "1997-02-11"
+    },
+    {
+        "name": "Анастасія Бандурка",
+        "phone_numder": "+380 (26) 263-42-01",
+        "email": "maksymcharnysh@example.net",
+        "address": "вулиця Восьмого березня 5-й, буд. 59 кв. 113, Вараш, 20660",
+        "birthday": "2012-11-15"
+    },
+    {
+        "name": "Ірина Батіг",
+        "phone_numder": "796-85-38",
+        "email": "boleslavilienko@example.net",
+        "address": "провулок Шишкіна 3-й, буд. 48, Дебальцеве, 68518",
+        "birthday": "2014-05-14"
+    },
+    {
+        "name": "Валентина Давиденко",
+        "phone_numder": "871-62-51",
+        "email": "deinekomarusia@example.org",
+        "address": "парк Курортний 6-й, буд. 907 кв. 68, Міусинськ, 47957",
+        "birthday": "2005-04-12"
+    },
+    {
+        "name": "Петро Орлик",
+        "phone_numder": "664 33 84",
+        "email": "zorianmykhailychenko@example.com",
+        "address": "сквер Вчительська, буд. 853, Погребище, 65310",
+        "birthday": "1988-03-26"
+    },
+    {
+        "name": "пан Антон Олійник",
+        "phone_numder": "+380 (49) 006-47-84",
+        "email": "zzasukha@example.org",
+        "address": "сквер Тимірязєва 3-й, буд. 5, Обухів, 66844",
+        "birthday": "1980-01-22"
+    },
+    {
+        "name": "Дарина Лагода",
+        "phone_numder": "074 212 55 19",
+        "email": "iryna57@example.net",
+        "address": "узвіз Морська, буд. 6, Монастирище, 84703",
+        "birthday": "2008-10-12"
+    },
+    {
+        "name": "Тарас Василашко",
+        "phone_numder": "785 43 48",
+        "email": "odarka13@example.com",
+        "address": "площа Гвардійська, буд. 218 кв. 771, Вільногірськ, 21106",
+        "birthday": "2001-06-20"
+    },
+    {
+        "name": "Богданна Фоменко",
+        "phone_numder": "001 848-42-95",
+        "email": "myronshakhrai@example.org",
+        "address": "шосе Кримська, буд. 40 кв. 1, Радомишль, 62360",
+        "birthday": "2017-02-14"
+    },
+    {
+        "name": "Вʼячеслав Чалий",
+        "phone_numder": "+380 83 277 21 47",
+        "email": "jvyshniak@example.com",
+        "address": "вулиця Псковська, буд. 093 кв. 044, Старокостянтинів, 10578",
+        "birthday": "1986-04-21"
+    }
+]

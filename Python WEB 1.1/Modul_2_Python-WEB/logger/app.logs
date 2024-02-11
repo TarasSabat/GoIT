@@ -1,0 +1,4 @@
+2024-01-13 18:10:49,814 [ERROR] __main__             foo[13] - Exception!
+2024-01-13 18:14:41,879 [ERROR] __main__             foo[13] - Exception!
+2024-01-13 18:15:01,619 [ERROR] __main__             foo[12] - Exception!
+2024-01-13 19:13:19,836 [ERROR] __main__             foo[12] - Exception!
