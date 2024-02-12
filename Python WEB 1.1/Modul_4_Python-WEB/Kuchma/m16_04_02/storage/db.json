@@ -1,38 +1,38 @@
 [
   {
     "title": "Перша стаття",
-    "date": "12.10.2023",
+    "date": "12.02.2024",
+    "author": "Taras",
+    "text": "Loren Ipsum is Lorem Ipsum and therefore the canonical from of Loren Ipsum"
+  },
+  {
+    "title": "Чим корисне пиво",
+    "date": "11.02.2024",
     "author": "Dmitro",
-    "text": "Lorem Ipsum is Lorem Ipsum and therefore  the canonical form of Lorem Ipsum"
+    "text": "Loren Ipsum is Lorem Ipsum and therefore the canonical from of Loren Ipsum"
   },
-    {
-    "title": "О корисності пива",
-    "date": "11.10.2023",
+  {
+    "title": "Чому програмування це зло ?",
+    "date": "10.02.2024",
     "author": "Andriy",
-    "text": "Lorem Ipsum is Lorem Ipsum and therefore  the canonical form of Lorem Ipsum"
+    "text": "Loren Ipsum is Lorem Ipsum and therefore the canonical from of Loren Ipsum"
   },
-    {
-    "title": "Чому програмування це зло",
-    "date": "10.10.2023",
-    "author": "Eduardo",
-    "text": "Lorem Ipsum is Lorem Ipsum and therefore  the canonical form of Lorem Ipsum"
+  {
+    "title": "Куди відлітають птахи ?",
+    "date": "09.02.2024",
+    "author": "Eduard",
+    "text": "Loren Ipsum is Lorem Ipsum and therefore the canonical from of Loren Ipsum"
   },
-    {
-    "title": "Куди тікають птахи?",
-    "date": "9.10.2023",
+  {
+    "title": "Хто викрав КамАЗ ?",
+    "date": "05.02.2024",
     "author": "Sergiy",
-    "text": "Lorem Ipsum is Lorem Ipsum and therefore  the canonical form of Lorem Ipsum"
+    "text": "Loren Ipsum is Lorem Ipsum and therefore the canonical from of Loren Ipsum"
   },
-    {
-    "title": "Хто вкрав камаз?",
-    "date": "5.10.2023",
+  {
+    "title": "Ми переможемо",
+    "date": "01.02.2024",
     "author": "Ruslan",
-    "text": "Lorem Ipsum is Lorem Ipsum and therefore  the canonical form of Lorem Ipsum"
-  },
-    {
-    "title": "Ми переможемо!",
-    "date": "1.10.2023",
-    "author": "Володимир",
-    "text": "Lorem Ipsum is Lorem Ipsum and therefore  the canonical form of Lorem Ipsum"
+    "text": "Loren Ipsum is Lorem Ipsum and therefore the canonical from of Loren Ipsum"
   }
 ]

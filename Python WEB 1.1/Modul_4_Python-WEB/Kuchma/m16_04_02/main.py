@@ -1,8 +1,8 @@
+import logging
 import mimetypes
+import socket
 import urllib.parse
 import json
-import logging
-import socket
 from pathlib import Path
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from threading import Thread
@@ -19,11 +19,10 @@ SOCKET_PORT = 4000
 jinja = Environment(loader=FileSystemLoader('templates'))
 
 
-class GoitFramework(BaseHTTPRequestHandler):
+class GoITFramework(BaseHTTPRequestHandler):
 
     def do_GET(self):
         route = urllib.parse.urlparse(self.path)
-        print(route.query)
         match route.path:
             case '/':
                 self.send_html('index.html')
@@ -66,9 +65,9 @@ class GoitFramework(BaseHTTPRequestHandler):
             data = json.load(file)
 
         template = jinja.get_template(filename)
-        message = None  # "Hello Sergiy!"
-        html = template.render(blogs=data, message=message)
-        self.wfile.write(html.encode())
+        message = None  # "Hello"
+        http = template.render(blogs=data, message=message)
+        self.wfile.write(http.encode())
 
     def send_static(self, filename, status_code=200):
         self.send_response(status_code)
@@ -111,7 +110,7 @@ def run_socket_server(host, port):
 
 def run_http_server(host, port):
     address = (host, port)
-    http_server = HTTPServer(address, GoitFramework)
+    http_server = HTTPServer(address, GoITFramework)
     logging.info("Starting http server")
     try:
         http_server.serve_forever()
@@ -129,4 +128,3 @@ if __name__ == '__main__':
 
     server_socket = Thread(target=run_socket_server, args=(SOCKET_HOST, SOCKET_PORT))
     server_socket.start()
-

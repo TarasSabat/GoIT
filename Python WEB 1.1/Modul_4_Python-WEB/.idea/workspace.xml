@@ -5,7 +5,35 @@
   </component>
   <component name="BlackConnectSettings" triggerOnEachSave="true" />
   <component name="ChangeListManager">
-    <list default="true" id="2974d174-4e90-4910-98f4-fedb2be17f5b" name="Changes" comment="1" />
+    <list default="true" id="2974d174-4e90-4910-98f4-fedb2be17f5b" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/DZ/Umova.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_01/.idea/m16_04_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/.idea/m16_04_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/assets/img/Layer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/assets/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_01/starter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_02/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_02/data/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_02/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_02/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_02/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_02/storage/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/storage/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kuchma/m16_04_02/templates/blog.jinja" beforeDir="false" afterPath="$PROJECT_DIR$/Kuchma/m16_04_02/templates/blog.jinja" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/IT/GoIT/Python WEB 1.1/Modul_4_Python-WEB/Kuchma",
+    "last_opened_file_path": "D:/IT/GoIT/Python WEB 1.1/Modul_4_Python-WEB",
     "settings.editor.selected.configurable": "com.jetbrains.python.black.configuration.BlackFormatterConfigurable"
   }
 }]]></component>
