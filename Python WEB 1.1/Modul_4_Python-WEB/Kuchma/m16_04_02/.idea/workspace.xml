@@ -5,31 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d0b9140-9902-499c-9b37-ee8bf4cf7372" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/m16_04_01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/m16_04_02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/img/Layer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/storage/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/blog.jinja" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog.jinja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/m16_04_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/m16_04_02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/assets/img/Layer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/assets/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/data/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/message.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/storage/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/socket_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/socket_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/storage/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DZ/templates/blog.jinja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,15 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/IT/GoIT/Python WEB 1.1/Modul_2_Python-WEB/docker",
-    "settings.editor.selected.configurable": "preferences.fileTypes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IT/GoIT/Python WEB 1.1/Modul_4_Python-WEB/front-init&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IT\GoIT\Python WEB 1.1\Modul_4_Python-WEB\Kuchma\m16_04_02\templates" />
