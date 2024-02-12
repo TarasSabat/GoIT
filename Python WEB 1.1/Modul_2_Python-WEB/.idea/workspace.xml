@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d93a38b-c2dc-4656-a0e6-e442983db703" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/.idea/m16_04_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/.idea/m16_04_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/main_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/assets/img/Layer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/assets/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_01/starter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/data/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/storage/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/storage/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/templates/blog.jinja" beforeDir="false" afterPath="$PROJECT_DIR$/../Modul_4_Python-WEB/Kuchma/m16_04_02/templates/blog.jinja" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2cH2BxfRf8LwwLqomZi6JiVvneb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IT/GoIT/Python WEB 1.1/Modul_2_Python-WEB"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d93a38b-c2dc-4656-a0e6-e442983db703" name="Changes" comment="" />
+      <created>1707754054471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707754054471</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d0b9140-9902-499c-9b37-ee8bf4cf7372" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/m16_04_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m16_04_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/m16_04_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/img/Layer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/assets/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m16_04_01/starter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" afterPath="$PROJECT_DIR$/poetry.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/storage/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/blog.jinja" beforeDir="false" afterPath="$PROJECT_DIR$/templates/blog.jinja" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cEV8PfD4BS45iXxo7VlN8Shfsr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IT/GoIT/Python WEB 1.1/Modul_2_Python-WEB/docker",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IT\GoIT\Python WEB 1.1\Modul_4_Python-WEB\Kuchma\m16_04_02\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="socket_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="m16_04_02" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/socket_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.socket_server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d0b9140-9902-499c-9b37-ee8bf4cf7372" name="Changes" comment="" />
+      <created>1707676565878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707676565878</updated>
+    </task>
+    <servers />
+  </component>
+</project>
