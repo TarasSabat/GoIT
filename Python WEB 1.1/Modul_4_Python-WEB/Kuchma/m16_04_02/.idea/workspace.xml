@@ -4,40 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d0b9140-9902-499c-9b37-ee8bf4cf7372" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/m16_04_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/m16_04_02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/assets/img/Layer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/assets/img/avatar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/data/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/error.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/message.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/storage/data.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/front-init/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/poetry.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/pyproject.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/socket_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../DZ/socket_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/storage/db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DZ/templates/blog.jinja" beforeDir="false" />
+    <list default="true" id="2d0b9140-9902-499c-9b37-ee8bf4cf7372" name="Changes" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
@@ -102,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707676565878</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <option name="closed" value="true" />
+      <created>1707772954634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707772954634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
