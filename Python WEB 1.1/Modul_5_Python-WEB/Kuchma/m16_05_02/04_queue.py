@@ -11,7 +11,7 @@ async def producer(q: asyncio.Queue):
 async def consumer(q: asyncio.Queue):
     while True:
         num = await q.get()
-        print(num ** 2)
+        print(num**2)
         q.task_done()
 
 
@@ -26,7 +26,5 @@ async def main():
     [task.cancel() for task in consumer_tasks]
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     asyncio.run(main())
-
-

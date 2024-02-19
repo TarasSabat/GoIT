@@ -12,11 +12,11 @@ class Server:
 
     async def register(self, ws: WebSocketServerProtocol):
         self.clients.add(ws)
-        logging.info(f'{ws.remote_address} connects')
+        logging.info(f"{ws.remote_address} connects")
 
     async def unregister(self, ws: WebSocketServerProtocol):
         self.clients.remove(ws)
-        logging.info(f'{ws.remote_address} disconnects')
+        logging.info(f"{ws.remote_address} disconnects")
 
     async def ws_handler(self, ws: WebSocketServerProtocol):
         await self.register(ws)
