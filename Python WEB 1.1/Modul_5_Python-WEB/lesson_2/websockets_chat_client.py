@@ -5,6 +5,7 @@ import concurrent.futures
 
 logging.basicConfig(level=logging.INFO)
 
+
 async def send(executor, ws):
     loop = asyncio.get_event_loop()
 
@@ -30,5 +31,5 @@ async def main(hostname, port):
             await asyncio.gather(listen_coroutine, future)
 
 
-if __name__ == '__main__':
-    asyncio.run(main('localhost', 8765))
+if __name__ == "__main__":
+    asyncio.run(main("localhost", 8765))
