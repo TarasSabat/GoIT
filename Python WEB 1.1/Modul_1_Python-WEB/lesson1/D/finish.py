@@ -61,4 +61,3 @@ if __name__ == "__main__":
         "https://api.privatbank.ua/p24api/pubinfo?exchange&coursid=11"
     )
     viewer.display(data)
-
