@@ -55,6 +55,7 @@ async def one_func(index_day_1):
                 for rate in response["exchangeRate"]
                 if rate["currency"] in desired_currencies
             ]  # Відбираємо з загального реєстру курсу валют курс EUR та USD
+            print('!!!', selected_rates)
 
             for currency_data in selected_rates:
                 currency_code = currency_data["currency"]  # Отримуємо код валюти

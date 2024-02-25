@@ -67,6 +67,7 @@ class GoITFramework(BaseHTTPRequestHandler):
         self.end_headers()
         with open(filename, "rb") as file:
             self.wfile.write(file.read())
+            
 
 
 def save_data_from_form(data):
