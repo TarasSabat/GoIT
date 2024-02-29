@@ -1,0 +1,20 @@
+Уроки
+https://youtu.be/bbWCeP7-i7k
+https://youtu.be/rEL9nXsfwh8
+
+Практика з ментором
+https://youtu.be/ZVsD2v0tENs
+
+Матеріали
+https://youtu.be/McojX5O38-8
+https://youtu.be/qzbjHAZLgjI
+
+https://youtu.be/m1AkfTzT9Xg
+https://youtu.be/9ENktcl-vxM
+https://youtu.be/eap-gp5HnrM
+https://youtu.be/JK4U8PFpxsg
+
+Додаткова література
+https://realpython.com/python-yaml/
+https://realpython.com/python-json/
+https://realpython.com/working-with-files-in-python/

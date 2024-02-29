@@ -1,4 +1,3 @@
-
 import hashlib
 
 names = {"Nata": 16, "Bogdan": 24, "Nastya": 20}
