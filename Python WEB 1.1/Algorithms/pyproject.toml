@@ -7,11 +7,6 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-numpy = "^1.26.4"
-matplotlib = "^3.8.3"
-network = "^0.1"
-networkx = "^3.2.1"
-kiwisolver = "^1.4.5"
 
 
 [build-system]
