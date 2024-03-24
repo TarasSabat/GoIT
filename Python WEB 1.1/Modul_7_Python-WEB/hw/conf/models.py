@@ -1,6 +1,7 @@
 from sqlalchemy import Column, Integer, String, ForeignKey, Date
 from sqlalchemy.orm import relationship, declarative_base
 
+
 Base = declarative_base()
 
 
@@ -29,7 +30,7 @@ class Subject(Base):
     id = Column(Integer, primary_key=True)
     name = Column(String(175), nullable=False)
     teacher_id = Column('teacher_id', ForeignKey('teachers.id', ondelete='CASCADE'))
-    teacher = relationship('Teacher', backref='disciplines')
+    teacher = relationship('Teacher', backref='subjects')
 
 
 class Grade(Base):
@@ -38,6 +39,6 @@ class Grade(Base):
     grade = Column(Integer, nullable=False)
     grade_date = Column('grade_date', Date, nullable=True)
     student_id = Column('student_id', ForeignKey('students.id', ondelete='CASCADE'))
-    subjects_id = Column('subject_id', ForeignKey('subjects.id', ondelete='CASCADE'))
+    subject_id = Column('subject_id', ForeignKey('subjects.id', ondelete='CASCADE'))
     student = relationship('Student', backref='grade')
-    discipline = relationship('Subject', backref='grade')
+    subjects = relationship('Subject', backref='grade')
