@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "modul-8-python-web"
+version = "0.1.0"
+description = ""
+authors = ["TarasSabat <tarsab25@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+bson = "^0.5.10"
+mongoengine = "^0.28.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

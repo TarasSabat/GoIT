@@ -28,12 +28,11 @@ def find_by_author(author: str) -> list[list[Any]]:
     return result
 
 
-if __name__ == '__main__':
-    print(find_by_tag('mi'))
-    print(find_by_tag('mi'))
+if __name__ == "__main__":
+    print(find_by_tag("mi"))
+    print(find_by_tag("mi"))
 
-    print(find_by_author('in'))
-    print(find_by_author('in'))
+    print(find_by_author("in"))
+    print(find_by_author("in"))
     quotes = Quote.objects().all()
     print([e.to_json() for e in quotes])
-
