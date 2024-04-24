@@ -1,5 +1,6 @@
 from django.db import models
 
+
 # Create your models here.
 
 
@@ -9,6 +10,7 @@ class Author(models.Model):
     born_location = models.CharField(max_length=150)
     description = models.TextField()
     created_at = models.DateTimeField(auto_now_add=True)
+
 
 
 class Tag(models.Model):

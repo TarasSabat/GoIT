@@ -1,21 +1,30 @@
-from django import forms
-from django.contrib.auth.forms import UserCreationForm
-from django.contrib.auth.models import User
 from quotes.models import Author, Quote
+from django import forms
+from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
+from django.contrib.auth.models import User
 
 
-class RegistrationForm(UserCreationForm):
-    email = forms.EmailField(max_length=254, help_text='Required. Inform a valid email address.')
+class RegisterForm(UserCreationForm):
+    username = forms.CharField(max_length=100,
+                               required=True,
+                               widget=forms.TextInput())
+
+    password1 = forms.CharField(max_length=50,
+                                required=True,
+                                widget=forms.PasswordInput())
+    password2 = forms.CharField(max_length=50,
+                                required=True,
+                                widget=forms.PasswordInput())
 
     class Meta:
         model = User
-        fields = ('username', 'email', 'password1', 'password2')
+        fields = ['username', 'password1', 'password2']
 
 
-class LoginForm(forms.Form):
-    username = forms.CharField()
-    password = forms.CharField(widget=forms.PasswordInput)
-
+class LoginForm(AuthenticationForm):
+    class Meta:
+        model = User
+        fields = ['username', 'password']
 
 class AuthorForm(forms.ModelForm):
     class Meta:

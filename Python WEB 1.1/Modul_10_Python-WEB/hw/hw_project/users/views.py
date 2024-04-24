@@ -1,55 +1,44 @@
+from django.contrib import messages
+from django.contrib.auth import authenticate, login, logout
+from django.contrib.auth.decorators import login_required
 from django.shortcuts import render, redirect
-from .forms import RegistrationForm, AuthorForm, QuoteForm
-from django.contrib.auth.forms import AuthenticationForm
-from django.contrib.auth import login, logout
+from .forms import RegisterForm, LoginForm
 
 
-def registration_view(request):
+def signupuser(request):
+    if request.user.is_authenticated:
+        return redirect(to='quotes:root')
+
     if request.method == 'POST':
-        form = RegistrationForm(request.POST)
+        form = RegisterForm(request.POST)
         if form.is_valid():
             form.save()
-            return redirect('home')  # Перенаправлення на домашню сторінку після реєстрації
-    else:
-        form = RegistrationForm()
-    return render(request, 'registration.html', {'form': form})
+            return redirect(to='users:login')
+        else:
+            return render(request, 'users/signup.html', context={"form": form})
+
+    return render(request, 'users/signup.html', context={"form": RegisterForm()})
 
 
-def login_view(request):
+def loginuser(request):
+    if request.user.is_authenticated:
+        return redirect(to='quotes:root')
+
     if request.method == 'POST':
-        form = AuthenticationForm(data=request.POST)
-        if form.is_valid():
-            user = form.get_user()
-            login(request, user)
-            return redirect('home')  # Перенаправлення на домашню сторінку після входу
-    else:
-        form = AuthenticationForm()
-    return render(request, 'login.html', {'form': form})
+        user = authenticate(
+            username=request.POST['username'], password=request.POST['password'])
+        if user is None:
+            messages.error(request, 'Username or password didn\'t match')
+            return redirect(to='users:login')
+
+        login(request, user)
+        return redirect(to='quotes:root')
+
+    return render(request, 'users/login.html', context={"form": LoginForm()})
 
 
-def logout_view(request):
+@login_required
+def logoutuser(request):
     logout(request)
-    # Redirect to a success page.
-    return redirect('http://127.0.0.1:8000/')
+    return redirect(to='quotes:root')
 
-
-def add_author_view(request):
-    if request.method == 'POST':
-        form = AuthorForm(request.POST)
-        if form.is_valid():
-            form.save()
-            return redirect('home')  # Перенаправлення на домашню сторінку після додавання автора
-    else:
-        form = AuthorForm()
-    return render(request, 'add_author.html', {'form': form})
-
-
-def add_quote_view(request):
-    if request.method == 'POST':
-        form = QuoteForm(request.POST)
-        if form.is_valid():
-            form.save()
-            return redirect('home')  # Перенаправлення на домашню сторінку після додавання цитати
-    else:
-        form = QuoteForm()
-    return render(request, 'add_quote.html', {'form': form})
