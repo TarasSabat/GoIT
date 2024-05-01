@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "hw-mongodb"
+version = "0.1.0"
+description = ""
+authors = ["TarasSabat <tarsab25@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pymongo = "3.11"
+django = "3.2.12"
+mongoengine = "^0.28.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
