@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from django.core.paginator import Paginator
-from .models import Author, Quote
+from .models import Author, Quote, Tag
 
 
 def main(request, page=1):
@@ -36,3 +36,9 @@ def author_page(request, author_id):
     # Отримати об'єкт автора за його ідентифікатором
     author = Author.objects.get(id=author_id)
     return render(request, 'author/author_page.html', {'author': author})
+
+def quote_page(request, tag_id):
+    tag = Tag.objects.get(id=tag_id)
+    quotes = Quote.objects.filter(tags=tag)
+    context = {'tag': tag, 'quotes': quotes}
+    return render(request, 'quotes/quote_page.html', context)
