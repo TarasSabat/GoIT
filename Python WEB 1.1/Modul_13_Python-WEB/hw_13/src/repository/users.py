@@ -43,3 +43,4 @@ async def update_avatar_url(email: str, url: str | None, db: AsyncSession) -> Us
     user.avatar = url
     await db.commit()
     return user
+

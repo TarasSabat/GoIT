@@ -10,9 +10,6 @@ from src.database.models import Contact, User
 from src.schemas.contact import ContactBase
 
 
-
-
-
 async def get_contacts(skip: int, limit: int, db: AsyncSession, user: User) -> List[Contact]:
     query = select(Contact).filter(Contact.user_id == user.id).offset(skip).limit(limit)
     result = await db.execute(query)
