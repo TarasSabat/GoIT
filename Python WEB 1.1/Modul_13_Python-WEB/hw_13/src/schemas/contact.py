@@ -1,8 +1,6 @@
 from pydantic import BaseModel, EmailStr
-from datetime import date, datetime
+from datetime import date
 from typing import Optional
-
-from src.schemas.user import UserResponse
 
 
 class ContactBase(BaseModel):
@@ -24,7 +22,6 @@ class ContactUpdate(ContactBase):
 
 class Contact(ContactBase):
     id: int
-
 
     class Config:
         from_attributes = True

@@ -1,6 +1,6 @@
 from datetime import date, timedelta
 from typing import List, Optional
-from sqlalchemy import or_, extract, and_, func
+from sqlalchemy import or_, and_, func
 from sqlalchemy.future import select
 from sqlalchemy.ext.asyncio import AsyncSession
 
