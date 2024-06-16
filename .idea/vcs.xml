@@ -2,8 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_10_Python-WEB/lesson/preparation/easy-rsa" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_12_Python-WEB/Dunkin/Web21-23" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_12_Python-WEB/Dunkin/Web21-Another_front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_13_Python-WEB/Dunkin/Web21-26" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_13_Python-WEB/Dunkin/Web21-26_pytest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_1_Python-WEB/DZ/Christmas-developers_Santa-s-personal-assistant" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_5_Python-WEB/Dunkin/Web21_10" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Python WEB 1.1/Modul_9_Python-WEB/Dunkin/Web21_18_Selenium" vcs="Git" />
